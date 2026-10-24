@@ -1,0 +1,11 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+.no-products {
+    text-align: center;
+    padding: 60px;
+    color: #666;
+}

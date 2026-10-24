@@ -183,7 +183,7 @@ export const products = [
     category: 'school bag',
     price: 1599,
     originalPrice: 2199,
-    image: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400',
+    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400',
     rating: 4.5,
     inStock: true,
     description: 'Colorful school bag for kids'
@@ -194,7 +194,7 @@ export const products = [
     category: 'school bag',
     price: 2799,
     originalPrice: 3599,
-    image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=400',
+    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400',
     rating: 4.4,
     inStock: true,
     description: 'Spacious bag for high school students'
